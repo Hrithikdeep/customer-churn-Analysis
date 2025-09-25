@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Data
+data/raw/
+data/cleaned/*.csv
+
+# Node/Next (if used)
+node_modules/
+.next/
+
+# OS
+.DS_Store
