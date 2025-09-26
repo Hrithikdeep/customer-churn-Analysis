@@ -1,9 +1,9 @@
-    "pandas",
-    "numpy",
-    "scikit-learn",
-    "joblib",
-    "flask",
-    "streamlit",
-    "gunicorn",
-    "requests",
-    "xgboost"
+streamlit
+pandas
+scikit-learn
+xgboost
+joblib
+requests
+flask
+flask-cors
+gunicorn
