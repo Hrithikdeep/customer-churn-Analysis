@@ -1,9 +1,11 @@
 streamlit
 pandas
 scikit-learn
-xgboost
 joblib
-requests
+xgboost
+matplotlib
+seaborn
 flask
 flask-cors
 gunicorn
+requests
